@@ -34,34 +34,26 @@ span{
     box-shadow: darkgray;
     white-space: pre-line;
 }
-.cartoon{
-    width: 25%;
-    margin-left: 3%;
-    margin-right: 3%;
-    box-shadow: 10px 10px 10px gray;
-    padding-left: 20px;
-    border-radius: 10px solid;
+.mission{
+    background: cadetblue;
 }
-.top{
-    position: top;
+.vission{
+    background: chartreuse;
 }
-.shado{
-    background-image: url(images/shape-1.png);
-    background-position:left;
-    background-repeat: no-repeat;
-    padding-left: 40px;
-    background-size: 900px;
-}
-.iast{
-    text-align: center;
-}
-p{
-text-size-adjust: 1000px;
+.goals{
+    background: darkmagenta;
 }
 footer{
     text-align: center;
-    background-color: black;
+    background: black;
 }
 .colour{
     color: blanchedalmond;
 }
+.shado{
+    background-image: url(images/shape-1.png);
+    padding-left: 20%;
+    size:700px;
+padding-top: 2px;
+}
+
