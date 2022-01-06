@@ -1,0 +1,33 @@
+h1{
+    font-size: 50px;
+}
+h2{
+    color: crimson;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.half-width img{
+    width: 80%;
+}
+.link-button{
+    text-size-adjust: 700px;
+    text-decoration: none;
+    background-color: fuchsia;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+p{
+ font-size: larger;   
+}
+span{
+    color: gold;
+}
+.text{
+    text-align: center;
+}
